@@ -1,3 +1,5 @@
+#Funcionando perfeitamente conforme solicitado no Exercício.
+
 a, b = map(int,(input().split(' ')))
 dado = []
 maior = [0,0]
